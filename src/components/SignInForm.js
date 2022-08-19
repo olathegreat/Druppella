@@ -41,7 +41,7 @@ const SignInForm = () => {
 
   return (
     
-      <div>
+      <div className='signinform'>
         <div className='right2'>
           <h2>Drupella</h2>
         <button><Link to="/signupform">Sign Up</Link></button>

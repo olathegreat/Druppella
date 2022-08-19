@@ -47,7 +47,7 @@ const UpdateProfile = () => {
         
     }
   return (
-    <div>
+    <div className='updateprofile'>
         <div className='right2'>
         <h2>Drupella</h2>
         <button><Link to="/dashboard">Dashboard</Link></button>

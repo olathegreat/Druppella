@@ -328,3 +328,7 @@ a:hover{
     }
     
 }
+
+.signupform, .signinform, .updateprofile, .dashboard, .forgotpassword{
+    height: 100vh;
+}

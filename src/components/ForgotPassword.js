@@ -43,7 +43,7 @@ const ForgotPassword = () => {
 
 
   return (
-    <div>
+    <div className='forgotpassword'>
         <div className='right2'>
         <h2>Druppella</h2>
         <button><Link to="/signupform">Sign Up</Link></button>
